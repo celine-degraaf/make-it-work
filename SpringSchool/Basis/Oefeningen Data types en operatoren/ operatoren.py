@@ -11,8 +11,8 @@ som = getal1 + getal2
 print(f"De som van {getal1} en {getal2} is: {som}")
 
 # 2. Twee strings aan elkaar plakken
-voornaam = "Emma"
-achternaam = "Jansen"
+voornaam = "Celine"
+achternaam = "de Graaf"
 volledige_naam = voornaam + " " + achternaam
 print(f"De volledige naam is: {volledige_naam}")
 
